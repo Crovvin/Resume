@@ -1,0 +1,122 @@
+h1, h2, h3{
+    color:white;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h4{
+    color: azure;
+}
+
+a{
+    color:lightblue;
+}
+
+p{
+    color: grey;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+li{
+    color: azure;
+    width: 150px;
+}
+
+#crucials{
+    display: flex;
+    height: 150px;
+    width: 600px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#name{
+    margin-left: 20px;
+}
+
+#header{
+    display: flex;
+}
+
+#information{
+    text-align: right;
+    margin-left: 120px;
+    display: flex;
+}
+
+#skills{
+    display: flex;
+}
+
+#section{
+    display: flex;
+    margin-left: 50px;
+    width: 750px;
+}
+
+#skills .boxes .percent{
+    width: 180%;
+    height: 10px;
+    background-color: #f0f0f0;
+    margin-bottom: 15px;
+}
+
+#skills .boxes .percent .skill1{
+    height: 100%;
+    width: 90%;
+    background-color: rgb(57, 57, 255);
+}
+
+#skills .boxes .percent .skill2{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(57, 255, 74);
+}
+
+#skills .boxes .percent .skill3{
+    height: 100%;
+    width: 90%;
+    background-color: rgb(209, 57, 255);
+}
+
+#skills .boxes .percent .skill4{
+    height: 100%;
+    width: 85%;
+    background-color: rgb(255, 64, 57);
+}
+
+#skills .boxes .percent .skill5{
+    height: 100%;
+    width: 65%;
+    background-color: rgb(255, 163, 57);
+}
+
+#skills .boxes .percent .skill6{
+    height: 100%;
+    width: 60%;
+    background-color: rgb(159, 57, 255);
+}
+
+#skills .boxes .percent .skill7{
+    height: 100%;
+    width: 80%;
+    background-color: rgb(255, 252, 57);
+}
+
+#skills .boxes .percent .skill8{
+    height: 100%;
+    width: 80%;
+    background-color: rgb(57, 255, 156);
+}
+
+#page{
+    background-color: rgb(59, 55, 55);
+    width: 1000px;
+}
